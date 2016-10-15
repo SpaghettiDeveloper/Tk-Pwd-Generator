@@ -1,2 +1,2 @@
-# Tk-Pwd-Generator
-Password generator (Tkinter GUI)
+# Tk Pwd Generator
+###### Password generator (Tkinter GUI)
